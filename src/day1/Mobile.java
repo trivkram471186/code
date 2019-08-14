@@ -2,10 +2,10 @@ package day1;
 
 public class Mobile {
 
-	float height;
-	float width;
-	float memorySize;
-	float processorSpeed;
+	private float height;
+	private float width;
+	private float memorySize;
+	private float processorSpeed;
 	
 	public Mobile(float height, float width, float memorySize, float processorSpeed) {
 		super();

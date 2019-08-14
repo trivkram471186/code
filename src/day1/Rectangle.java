@@ -2,8 +2,8 @@ package day1;
 
 public class Rectangle extends Shape{
 
-	float height;
-	float width;
+	private float height;
+	private float width;
 	
 	
 	public Rectangle(float height, float width) {

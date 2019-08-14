@@ -2,7 +2,7 @@ package day1;
 
 public class Vehicle {
 
-	int numberOfWheels;
+	private int numberOfWheels;
 
 	public Vehicle(int numberOfWheels) {
 		super();

@@ -2,7 +2,7 @@ package day1;
 
 public class Person {
 
-	String name;
+	private String name;
 
 	public Person(String name) {
 		super();
